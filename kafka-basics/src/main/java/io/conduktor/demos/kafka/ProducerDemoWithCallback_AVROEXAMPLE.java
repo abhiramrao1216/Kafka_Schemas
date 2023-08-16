@@ -10,7 +10,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.Properties;
-
 public class ProducerDemoWithCallback_AVROEXAMPLE {
 
     private static final Logger log= LoggerFactory.getLogger(ProducerDemoWithCallback_AVROEXAMPLE.class.getSimpleName());
